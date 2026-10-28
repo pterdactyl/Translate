@@ -1,0 +1,13 @@
+{
+  "cases": [
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "area", "args": [3, 4]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "area", "args": [-2, 5]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "double", "args": [6]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "perimeter", "args": [3, 4]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "larger_area", "args": [3, 4, 2, 2]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "larger_area", "args": [1, 1, 3, 4]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "larger_area", "args": [2, 5, 2, 5]},
+    {"file": "shapes.py", "module": "shapes", "class": "Rect", "function": "sides", "args": []},
+    {"file": "shapes.py", "module": "shapes", "function": "corners", "args": []}
+  ]
+}

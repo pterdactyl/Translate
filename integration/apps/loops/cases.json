@@ -1,0 +1,22 @@
+{
+  "cases": [
+    {"file": "loops.py", "module": "loops", "function": "sum_to", "args": [4]},
+    {"file": "loops.py", "module": "loops", "function": "sum_to", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "sum_to", "args": [1]},
+    {"file": "loops.py", "module": "loops", "function": "countdown", "args": [3]},
+    {"file": "loops.py", "module": "loops", "function": "countdown", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "while_sum", "args": [4]},
+    {"file": "loops.py", "module": "loops", "function": "while_sum", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "evens", "args": [5]},
+    {"file": "loops.py", "module": "loops", "function": "evens", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "until", "args": [10, 4]},
+    {"file": "loops.py", "module": "loops", "function": "until", "args": [4, 9]},
+    {"file": "loops.py", "module": "loops", "function": "last_assigned", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "last_assigned", "args": [4]},
+    {"file": "loops.py", "module": "loops", "function": "overwritten", "args": [0]},
+    {"file": "loops.py", "module": "loops", "function": "overwritten", "args": [3]},
+    {"file": "loops.py", "module": "loops", "function": "empty_sum", "args": []},
+    {"file": "loops.py", "module": "loops", "function": "stopped", "args": [5, 2]},
+    {"file": "loops.py", "module": "loops", "function": "stopped", "args": [3, 9]}
+  ]
+}

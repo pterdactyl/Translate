@@ -1,0 +1,26 @@
+{
+  "cases": [
+    {"file": "errors.py", "module": "errors", "function": "floor", "args": [7, 3]},
+    {"file": "errors.py", "module": "errors", "function": "floor", "args": [1, 0]},
+    {"file": "errors.py", "module": "errors", "function": "true_div", "args": [7, 2]},
+    {"file": "errors.py", "module": "errors", "function": "true_div", "args": [1, 0]},
+    {"file": "errors.py", "module": "errors", "function": "require_positive", "args": [3]},
+    {"file": "errors.py", "module": "errors", "function": "require_positive", "args": [0]},
+    {"file": "errors.py", "module": "errors", "function": "require_positive", "args": [-2]},
+    {"file": "errors.py", "module": "errors", "function": "safe_floor", "args": [8, 3]},
+    {"file": "errors.py", "module": "errors", "function": "safe_floor", "args": [8, 0]},
+    {"file": "errors.py", "module": "errors", "function": "safe_floor", "args": [-8, 3]},
+    {"file": "errors.py", "module": "errors", "function": "safe_div", "args": [7, 2]},
+    {"file": "errors.py", "module": "errors", "function": "safe_div", "args": [1, 0]},
+    {"file": "errors.py", "module": "errors", "function": "safe_positive", "args": [4]},
+    {"file": "errors.py", "module": "errors", "function": "safe_positive", "args": [0]},
+    {"file": "errors.py", "module": "errors", "function": "safe_step", "args": [1]},
+    {"file": "errors.py", "module": "errors", "function": "safe_step", "args": [0]},
+    {"file": "errors.py", "module": "errors", "function": "safe_step", "args": [-1]},
+    {"file": "errors.py", "module": "errors", "function": "classify", "args": [0]},
+    {"file": "errors.py", "module": "errors", "function": "classify", "args": [1]},
+    {"file": "errors.py", "module": "errors", "function": "classify", "args": [4]},
+    {"file": "errors.py", "module": "errors", "function": "reject", "args": [false]},
+    {"file": "errors.py", "module": "errors", "function": "reject", "args": [true]}
+  ]
+}

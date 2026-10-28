@@ -1,0 +1,14 @@
+{
+  "cases": [
+    {"file": "shop/tax.py", "module": "shop.tax", "function": "tax_on", "args": [25]},
+    {"file": "shop/tax.py", "module": "shop.tax", "function": "tax_on", "args": [0]},
+    {"file": "shop/tax.py", "module": "shop.tax", "function": "tax_on", "args": [-25]},
+    {"file": "shop/tax.py", "module": "shop.tax", "function": "with_tax", "args": [25]},
+    {"file": "shop/tax.py", "module": "shop.tax", "function": "with_tax", "args": [-25]},
+    {"file": "shop/pricing.py", "module": "shop.pricing", "function": "line_total", "args": [20, 3]},
+    {"file": "shop/pricing.py", "module": "shop.pricing", "function": "charged", "args": [20, 3]},
+    {"file": "shop/pricing.py", "module": "shop.pricing", "function": "charged", "args": [5, 1]},
+    {"file": "shop/pricing.py", "module": "shop.pricing", "function": "tax_only", "args": [20, 3]},
+    {"file": "shop/pricing.py", "module": "shop.pricing", "function": "tax_only", "args": [-20, 3]}
+  ]
+}

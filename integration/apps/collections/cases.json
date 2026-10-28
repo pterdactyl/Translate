@@ -1,0 +1,26 @@
+{
+  "cases": [
+    {"file": "groups.py", "module": "groups", "function": "first", "args": [[10, 20, 30]]},
+    {"file": "groups.py", "module": "groups", "function": "at", "args": [[10, 20, 30], 1]},
+    {"file": "groups.py", "module": "groups", "function": "at", "args": [[10, 20, 30], -1]},
+    {"file": "groups.py", "module": "groups", "function": "at", "args": [[10, 20, 30], 5]},
+    {"file": "groups.py", "module": "groups", "function": "at", "args": [[10, 20, 30], -4]},
+    {"file": "groups.py", "module": "groups", "function": "pair", "args": [4, 7]},
+    {"file": "groups.py", "module": "groups", "function": "head", "args": [4, 7]},
+    {"file": "groups.py", "module": "groups", "function": "replace_first", "args": [[1, 2, 3], 9]},
+    {"file": "groups.py", "module": "groups", "function": "word", "args": [["pen", "book"], 1]},
+    {"file": "groups.py", "module": "groups", "function": "average_ends", "args": [[1.0, 3.0, 9.0]]},
+    {"file": "groups.py", "module": "groups", "function": "both_flags", "args": [[true, false]]},
+    {"file": "groups.py", "module": "groups", "function": "both_flags", "args": [[true, true]]},
+    {"file": "groups.py", "module": "groups", "function": "price", "args": [{"pen": 2, "book": 5}, "book"]},
+    {"file": "groups.py", "module": "groups", "function": "price", "args": [{"pen": 2}, "book"]},
+    {"file": "groups.py", "module": "groups", "function": "pen_price", "args": []},
+    {"file": "groups.py", "module": "groups", "function": "update_price", "args": [{"pen": 2, "book": 5}, "pen", 8]},
+    {"file": "groups.py", "module": "groups", "function": "update_price", "args": [{"pen": 2}, "book", 4]},
+    {"file": "groups.py", "module": "groups", "function": "at_or_zero", "args": [[4, 5], 1]},
+    {"file": "groups.py", "module": "groups", "function": "at_or_zero", "args": [[4, 5], 3]},
+    {"file": "groups.py", "module": "groups", "function": "at_or_zero", "args": [[4, 5], -1]},
+    {"file": "groups.py", "module": "groups", "function": "price_or_zero", "args": [{"pen": 2}, "pen"]},
+    {"file": "groups.py", "module": "groups", "function": "price_or_zero", "args": [{"pen": 2}, "book"]}
+  ]
+}
